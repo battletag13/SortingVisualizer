@@ -1,2 +1,2 @@
 # SortingVisualizer
-A sorting visualizer written with p5.js
+### A sorting visualizer written with P5.js
